@@ -44,7 +44,7 @@ We value your feedback and suggestions for improving this repository. If you hav
 
 ## License
 
-This repository is open-source and available under the [MIT License](LICENSE). Feel free to use, share, and modify the content as needed.
+This repository is open-source and available under the [MIT License]. Feel free to use, share, and modify the content as needed.
 
 ---
 
