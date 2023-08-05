@@ -1,6 +1,6 @@
 # Cybersecurity Learning Resources
 
-![Cybersecurity](https://cdn.pixabay.com/photo/2020/03/20/08/01/hacker-4949897_960_720.jpg)
+![Cybersecurity]
 
 Welcome to the Cybersecurity Learning Resources repository! This collection of materials is designed to help individuals learn about various aspects of cybersecurity, from fundamentals to advanced topics.
 
